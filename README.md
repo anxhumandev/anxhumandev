@@ -85,33 +85,58 @@ I'm a **Data Analyst with an Electrical Engineering background**, focused on the
 
 ## 🚀 Featured Projects
 
-### 🧬 ClinicalNER — NLP De-identification Pipeline
+### 🧬 ClinicalNER — Clinical Trial De-identification Pipeline
 
-An NLP pipeline designed to identify and de-identify sensitive entities in clinical text.
+End-to-end clinical NLP system for PHI detection and de-identification, with data-quality validation, audit logging, REST APIs, ML scoring, automated tests, Docker, and Azure deployment.
 
-**Focus:** NLP · Named Entity Recognition · Transformers · spaCy · Python
+**Stack:** Python · spaCy · Flask · SQLAlchemy · SQLite · Scikit-learn · Docker · Azure · pytest
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+- 🧪 **269 tests** with **70%+ line coverage**
+- ☁️ Deployed on **Azure App Service**
+- 🤖 Hybrid NER + anomaly detection + readmission scoring
+- 📊 Dashboard, API Explorer, ML Lab, reporting and audit workflows
 
----
-
-### 🛡️ Fraud Detection System
-
-An anomaly-detection system for identifying potentially fraudulent financial transactions using unsupervised machine learning.
-
-**Focus:** Isolation Forest · Scikit-learn · Pandas · Anomaly Detection
-
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+[![Repository](https://img.shields.io/badge/Repository-ClinicalNER-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev/ClinicalNER)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Azure-0078D4?style=for-the-badge&logo=microsoftazure)](https://clinicalner-ansh.azurewebsites.net/)
 
 ---
 
-### 💊 Pharmacovigilance Intelligence
+### ⚡ PetraVigil — Energy Supply Decision Intelligence
 
-AI/data tooling for pharmacovigilance workflows, including regulatory scheduling and compliance-oriented analysis.
+An analyst-confirmed decision-support prototype that converts disruption signals into reproducible procurement scenarios using entity resolution, Monte Carlo simulation, constrained optimization, and human approval gates.
 
-**Focus:** Python · FastAPI · Streamlit · NLP · Data Analytics
+**Stack:** Python · FastAPI · React · TypeScript · NumPy · OR-Tools · Gemini · SQLite · Next.js
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+- 🔬 Reproducible Monte Carlo scenario simulation
+- 📐 Constrained portfolio optimization with shared route capacity
+- 🛡️ Explicit **NO_RECOMMENDATION_YET** safety path for infeasible scenarios
+- 🧑‍💼 Human-in-the-loop workflow with analyst-confirmed assumptions
+- 🧠 Gemini extraction/explanation with deterministic fallback
+- 🧪 Verified backend suite with **37 tests**
+
+[![Repository](https://img.shields.io/badge/Repository-PetraVigil-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev/ET-2.0)
+
+> Local/offline prototype — intentionally not presented as a live intelligence or autonomous procurement system.
+
+---
+
+### 💊 PV Compliance & Regulatory Scheduling Intelligence System
+
+Full-stack pharmacovigilance operations platform combining regulatory scheduling, AI-assisted QC, CAPA lifecycle management, audit scoring, and a natural-language Compliance Copilot.
+
+**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · Celery · Redis · MinIO · LangChain · OpenAI · Docker
+
+- 📅 Automated PSUR/DSUR/RMP regulatory scheduling
+- 🤖 LLM-powered QC checks and Compliance Copilot
+- 🔄 CAPA state-machine workflow
+- 📊 Multi-dimensional audit-readiness scoring
+- 🔐 JWT authentication + role-based access control
+- 🧱 Async SQLAlchemy + PostgreSQL + Celery/Redis architecture
+- 📦 Docker Compose deployment model
+
+[![Repository](https://img.shields.io/badge/Repository-PV%20Compliance-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev/PV-Compliance-Regulatory-Scheduling-Intelligence-System)
+
+> Local development system; no public production demo is currently claimed.
 
 ---
 
