@@ -10,7 +10,6 @@ Building data-driven products, intelligent systems, and practical ML solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-anxhumandev-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Anshuman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
-[![Profile Views](https://komarev.com/ghpvc/?username=anxhumandev&style=for-the-badge&color=blue)](https://github.com/anxhumandev)
 
 </div>
 
