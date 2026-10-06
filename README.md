@@ -1,87 +1,159 @@
 <div align="center">
 
-<img src="banner.png" alt="banner" width="100%" />
+<img src="banner.png" alt="Kumar Anshuman" width="100%" />
 
-# Hi 👋 I'm Anshuman Kumar
+# Kumar Anshuman
 
-### 🚀 AI • Data • Product
+### Data Analyst • AI/ML • Product
 
-![](https://komarev.com/ghpvc/?username=anxhumandev&color=blue&style=flat)
+Building data-driven products, intelligent systems, and practical ML solutions.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=750&lines=AI+%26+Data+Enthusiast;Aspiring+Product+Manager;Hackathon+Finalist;Building+Cool+Things+With+Data)
+[![GitHub](https://img.shields.io/badge/GitHub-anxhumandev-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Anshuman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
+[![Profile Views](https://komarev.com/ghpvc/?username=anxhumandev&style=for-the-badge&color=blue)](https://github.com/anxhumandev)
 
 </div>
 
 ---
 
-# 🌟 About Me
+## 👋 About Me
 
-* 🧠 Interested in **AI, Data Science, and Product Management**
-* 🏆 **Top 2 National Finalist — NEST 2.0 Hackathon**
-* 📊 Passionate about **data-driven decision making**
+I'm a **Data Analyst with an Electrical Engineering background**, focused on the intersection of **data, AI, software, and product thinking**.
 
----
-
-# ⚡ Tech Stack
-
-### Programming
-
-![My Skills](https://skillicons.dev/icons?i=python)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
-### Data & AI
-
-![AI](https://skillicons.dev/icons?i=python,pandas,numpy)
+- 📊 Building analytics and decision-support solutions
+- 🤖 Working with machine learning, NLP, and GenAI
+- 🧩 Interested in turning ambiguous problems into practical products
+- 🏆 **National Finalist — Novartis NEST 2.0 | Top 10 Overall | #2 in Problem Statement Track**
+- 🚀 Hackathon-driven builder who enjoys shipping end-to-end prototypes
 
 ---
 
-# 🚀 Featured Projects
+## 🔭 What I'm Working On
 
-🔹 **Credit Risk Prediction Model**  
-Machine learning model to identify high-risk credit card users.
-
-🔹 **Fraud Detection System**  
-Isolation Forest based anomaly detection for financial transactions.
-
-🔹 **Financial Analytics Dashboard**  
-Data dashboard for visualizing financial KPIs.
+- 📈 Data analytics, visualization, and business intelligence
+- 🤖 AI/ML applications with production-oriented APIs
+- 🧠 GenAI, NLP, RAG, and intelligent agents
+- ☁️ Cloud deployment and scalable application workflows
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxhumandev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+### Languages & Data
+
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=postgresql)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### AI / ML
+
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+**Pandas · NumPy · NLP · Transformers · RAG · Anomaly Detection**
+
+### Backend & Frontend
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Databases & DevOps
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+### Cloud & Tools
+
+![Azure](https://skillicons.dev/icons?i=azure)
+![Git](https://skillicons.dev/icons?i=git)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-# 🔥 GitHub Streak
+## 🏆 Proof of Work
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anxhumandev&theme=tokyonight)
-
----
-
-# 📊 GitHub Overview
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anxhumandev&layout=compact&theme=tokyonight)
+| Achievement | Result |
+|---|---|
+| **Novartis NEST 2.0 Hackathon** | National Finalist · Top 10 Overall · #2 in Problem Statement Track |
+| **Hackathons** | Built and shipped multiple AI/Data prototypes under time constraints |
+| **Professional Work** | Data Analyst — NeenOpal |
 
 ---
 
-# 🐍 Contribution Snake
+## 🚀 Featured Projects
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+### 🧬 ClinicalNER — NLP De-identification Pipeline
+
+An NLP pipeline designed to identify and de-identify sensitive entities in clinical text.
+
+**Focus:** NLP · Named Entity Recognition · Transformers · spaCy · Python
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+
+---
+
+### 🛡️ Fraud Detection System
+
+An anomaly-detection system for identifying potentially fraudulent financial transactions using unsupervised machine learning.
+
+**Focus:** Isolation Forest · Scikit-learn · Pandas · Anomaly Detection
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
 
 ---
 
-# 🤝 Connect With Me
+### 💊 Pharmacovigilance Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Anshuman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
+AI/data tooling for pharmacovigilance workflows, including regulatory scheduling and compliance-oriented analysis.
 
-[![GitHub](https://img.shields.io/badge/GitHub-anxhumandev-black?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+**Focus:** Python · FastAPI · Streamlit · NLP · Data Analytics
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anxhumandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxhumandev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=anxhumandev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 📫 Connect
+
+If you're interested in **data, AI, product, or building something useful**, feel free to connect.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Anshuman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
+[![GitHub](https://img.shields.io/badge/GitHub-anxhumandev-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
+
+</div>
 
 <div align="center">
 
