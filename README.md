@@ -4,9 +4,9 @@
 
 # Kumar Anshuman
 
-### Data Analyst • AI/ML • Product
+### Data Analyst • AI/ML • Analytics Engineering
 
-Building data-driven products, intelligent systems, and practical ML solutions.
+Building analytics systems, intelligent applications, and production-oriented data products.
 
 [![GitHub](https://img.shields.io/badge/GitHub-anxhumandev-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Anshuman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
@@ -19,9 +19,9 @@ Building data-driven products, intelligent systems, and practical ML solutions.
 
 I'm a **Data Analyst with an Electrical Engineering background**, focused on the intersection of **data, AI, software, and product thinking**.
 
-- 📊 Building analytics and decision-support solutions
+- 📊 Building analytics, BI, and decision-support solutions
 - 🤖 Working with machine learning, NLP, and GenAI
-- 🧩 Interested in turning ambiguous problems into practical products
+- 🧩 Turning ambiguous business problems into measurable technical solutions
 - 🏆 **National Finalist — Novartis NEST 2.0 | Top 10 Overall | #2 in Problem Statement Track**
 - 🚀 Hackathon-driven builder who enjoys shipping end-to-end prototypes
 
@@ -49,7 +49,7 @@ I'm a **Data Analyst with an Electrical Engineering background**, focused on the
 ![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 
-**Pandas · NumPy · NLP · Transformers · RAG · Anomaly Detection**
+**Pandas · NumPy · NLP · Transformers · RAG · Anomaly Detection · Power BI**
 
 ### Backend & Frontend
 
@@ -120,23 +120,23 @@ An analyst-confirmed decision-support prototype that converts disruption signals
 
 ---
 
-### 💊 PV Compliance & Regulatory Scheduling Intelligence System
+### 📊 Mark2Table / Export2Sheet — Tableau to Excel
 
-Full-stack pharmacovigilance operations platform combining regulatory scheduling, AI-assisted QC, CAPA lifecycle management, audit scoring, and a natural-language Compliance Copilot.
+A Tableau dashboard extension that converts dashboard content into a formatted Excel workbook, including styled cells, native editable Excel charts, Tableau-rendered images, and dashboard data.
 
-**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · Celery · Redis · MinIO · LangChain · OpenAI · Docker
+**Stack:** JavaScript · TypeScript/JSDoc · Tableau Extensions API · ExcelJS · JSZip · esbuild
 
-- 📅 Automated PSUR/DSUR/RMP regulatory scheduling
-- 🤖 LLM-powered QC checks and Compliance Copilot
-- 🔄 CAPA state-machine workflow
-- 📊 Multi-dimensional audit-readiness scoring
-- 🔐 JWT authentication + role-based access control
-- 🧱 Async SQLAlchemy + PostgreSQL + Celery/Redis architecture
-- 📦 Docker Compose deployment model
+- 📐 Parses TWB/TWBX workbooks and Tableau formatting cascades
+- 📊 Maps visual models to renderer-neutral Excel chart specifications
+- 📈 Generates native editable Excel charts rather than screenshots where supported
+- 🎨 Preserves palettes, number formats, layout, and dashboard styling
+- 💾 Handles workbook assets and local browser storage
+- 🔒 Bundles dependencies locally; no CDN runtime dependency
 
-[![Repository](https://img.shields.io/badge/Repository-PV%20Compliance-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev/PV-Compliance-Regulatory-Scheduling-Intelligence-System)
+[![Repository](https://img.shields.io/badge/Repository-Mark2Table-181717?style=for-the-badge&logo=github)](https://github.com/anxhumandev/tableau-to-excel)
 
-> Local development system; no public production demo is currently claimed.
+> Runs as a Tableau Desktop extension; requires Tableau Desktop for end-to-end validation.
+
 
 ---
 
